@@ -1,0 +1,9 @@
+2019-12-29 18:13:03  org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:270)  Root WebApplicationContext: initialization started
+2019-12-29 18:13:04  org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)  Root WebApplicationContext initialized in 793 ms
+2019-12-29 18:13:14  org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:524)  Initializing Servlet 'springmvc'
+2019-12-29 18:13:15  org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:546)  Completed initialization in 1104 ms
+2022-10-13 17:17:21  org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:270)  Root WebApplicationContext: initialization started
+2022-10-13 17:17:22  org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)  Root WebApplicationContext initialized in 669 ms
+2022-10-13 17:17:41  org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:524)  Initializing Servlet 'springmvc'
+2022-10-13 17:17:41  org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:546)  Completed initialization in 533 ms
+2022-10-13 17:17:41  org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1249)  No mapping for GET /sayHello.do
